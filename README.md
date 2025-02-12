@@ -14,7 +14,7 @@ Este script analiza archivos de logs en busca de intentos de ataque contra un se
 
 ```bash
 # Clona el repositorio
-git clone https://github.com/tuusuario/analizador-logs.git
+git clone https://github.com/retr0-bit011/analizador-logs.git
 cd analizador-logs
 
 ## Uso
