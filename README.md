@@ -17,10 +17,6 @@ Este script analiza archivos de logs en busca de intentos de ataque contra un se
 git clone https://github.com/tuusuario/analizador-logs.git
 cd analizador-logs
 
-# Instala dependencias
-pip install -r requirements.txt  # Si usas un archivo de requerimientos
-```
-
 ## Uso
 
 ```bash
